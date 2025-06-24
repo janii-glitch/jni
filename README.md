@@ -1,0 +1,2 @@
+# jni
+projek jni
